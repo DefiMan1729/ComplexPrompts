@@ -17,11 +17,6 @@ This codespace includes a variety of examples to demonstrate advanced prompt tec
 - **Sentiment Analysis:** Discover sentimemts from review comments.
 - **Extract Strcutured Output:** Extracting structured JSON output.
 
-### Best Practices
-To get the most out of this guide, consider the following best practices:
-- **Iterate and Experiment:** Continuously refine your prompts based on feedback and results.
-- **Stay Updated:** Keep abreast of the latest developments in AI technology to leverage new capabilities.
-- **Collaborate:** Engage with your team and stakeholders to ensure AI initiatives align with business goals.
 
 ## Contributing
 We welcome contributions from the community! If you have ideas for improving this guide, please submit a pull request or open an issue.
