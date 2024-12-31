@@ -11,18 +11,6 @@ Before you begin, ensure you have met the following requirements:
 - Access to a GitHub account
 - Get your own API Key from Open AI
 
-### Installation
-1. Clone this repository to your local machine:
-   ```bash
-   git clone https://github.com/yourusername/advanced-prompt-techniques.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd advanced-prompt-techniques
-   ```
-
-## Usage
-
 ### Examples
 This codespace includes a variety of examples to demonstrate advanced prompt techniques:
 - **Multimodal Prompts:** Learn how to prompt related to an Image.
